@@ -1,4 +1,7 @@
-## 001Food-delivery
-This is my first project after learning html and css (not responsive yet)
+## Restaurant-Food-Delivery => First webdev project (learning | beginner)
 
-completed
+**complete hospital system website -- css and html (no js)**
+
+`Completed` and `non-Responsive`
+
+link = https://prathamreet.github.io/Restaurant-Food-Delivery/
